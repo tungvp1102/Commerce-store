@@ -1,0 +1,51 @@
+.wrapper {
+    box-shadow: 0px 1px 1px rgb(0 0 0 / 12%);
+    display: flex;
+    color:#fff;
+    width: 62px;
+}
+
+.inner { 
+    align-items: center;  
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 40px 2px 30px; 
+}
+
+.icon {
+    width: 25px;
+    height: 25px;
+    border-radius: 10px;
+}
+
+.one_row {
+    float: right;
+}
+
+.header_left {
+    display: flex;
+    float: left;
+}
+
+.header_right {
+    display: flex;
+    float: right;
+}
+
+.game, .browse, .githubcat, .cart {
+    z-index: 9;
+    width: 150px;
+}
+
+.game {
+   
+}
+.browse {
+    
+}
+.githubcat {
+    
+}
+.cart {
+    
+}
